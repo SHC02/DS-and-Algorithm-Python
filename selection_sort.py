@@ -1,8 +1,9 @@
-import time
 '''
    Selection Sort
    Selection sort works by finding the minimum element and then inserting it in its correct position by swapping with
    the element which is in the position of this minimum element, and this is what makes it unstable.
+
+   Time Complexity: O(N^2)
    '''
 # Selection sort
 def selection_sort(nums):

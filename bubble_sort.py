@@ -1,6 +1,6 @@
-import time
 '''
 Bubble Sort
+Time Complexity: O(N^2)
 '''
 # Bubble Sort
 def bubble_sort(nums):
